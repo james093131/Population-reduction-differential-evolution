@@ -14,11 +14,11 @@ It's impressive to get this achievement by the easy way.
 
 2. Type either one of the following two commands to run the program:
 
-  ./run.sh
+    ./run.sh
   
-  or
-  
-If you want to run the testfunction dataset, you should set the ben_num to -1, otherwise would run the cec'22 dataset.
+    or  
+    If you want to run the testfunction dataset, you should set the ben_num to -1, otherwise would run the cec'22 dataset.
 
-./PR_DE [runs] [size] [dimension] [TargetPercent] [fun_num] [ben_num] 
+    
+    ./PR_DE [runs] [size] [dimension] [TargetPercent] [fun_num] [ben_num] 
 
