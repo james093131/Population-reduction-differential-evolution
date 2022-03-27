@@ -66,10 +66,10 @@ public:
             r++;
         }
 
-        for (int i = 0; i < run_result.size(); i++)
-        {
-            cout << i << ' ' << run_result[i] << endl;
-        }
+        // for (int i = 0; i < run_result.size(); i++)
+        // {
+        //     cout << i << ' ' << run_result[i] << endl;
+        // }
         cout << fun_num << ' ' << ben_num << ' ' << run_avg / run << endl;
     }
 
